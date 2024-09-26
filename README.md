@@ -11,3 +11,7 @@
 <h1> Acceso a datos con JPA </h1>
 
 ![alt text](AccesoDatosJPA.JPG)
+
+<h1> Agregando seguridad a una pagina web </h1>
+
+![alt text](Securing.JPG)
