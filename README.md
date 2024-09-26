@@ -7,3 +7,7 @@
 <h1> Creación de un servicio web RESTful </h1>
 
 ![alt text](ServicioRest.JPG)
+
+<h1> Acceso a datos con JPA </h1>
+
+![alt text](AccesoDatosJPA.JPG)
